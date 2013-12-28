@@ -1,0 +1,190 @@
+<!-- Google Code for Sign up header Conversion Page -->
+<script type="text/javascript">
+/* <![CDATA[ */
+var google_conversion_id = 978475835;
+var google_conversion_language = "en";
+var google_conversion_format = "3";
+var google_conversion_color = "ffffff";
+var google_conversion_label = "yCLTCJ2WuQsQu7bJ0gM";
+var google_conversion_value = 5;
+var google_remarketing_only = false;
+/* ]]> */
+</script>
+<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
+</script>
+<noscript>
+<div style="display:inline;">
+<img height="1" width="1" style="border-style:none;" alt="" src="//www.googleadservices.com/pagead/conversion/978475835/?value=5&amp;label=yCLTCJ2WuQsQu7bJ0gM&amp;guid=ON&amp;script=0"/>
+</div>
+</noscript>
+
+
+<?php
+include('header.php');
+$video = $db->GetVideoUrl();
+if (isset($video) && $video != NULL):
+    for ($i = 0; $i < 2; $i++):
+    endfor;
+endif;
+?>
+
+<div class="content">
+    <div id="main-wrapper" class="pure-u-1">
+
+        <div class="pure-u-1 centered splash slideshow">
+            <div class="pure-g slider1">
+                <div class="pure-u-1200 centered relative">
+                    <div class=" pure-u-29-48 right-text pull-right">
+                        <div class="transparent-gradient slider-box">
+                            <div class="pure-u-9-24">
+                                <div class="xl-box">
+                                    <h1 class="landing-h1 splash-head">
+                                        Stay connected
+                                    </h1>
+                                    <h2 class="landing-h2 splash-subhead">
+                                        Connect with your event professionals at any time and any place.
+                                    </h2>
+                                    <div class="l-box"></div>
+                                    <p class="landing-p">
+                                        <a href="/register" class="pure-button pure-button-large pure-button-warning large-button">
+                                            Sign up now
+                                        </a>
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="pure-u-1-8"></div>
+            </div>
+
+            <div class="pure-g slider2" style="display: none">
+                <div class="pure-u-1200 centered relative">
+                    <div class=" pure-u-29-48 right-text pull-right">
+                        <div class="transparent-gradient slider-box">
+                            <div class="pure-u-9-24">
+                                <div class="xl-box">
+                                    <h1 class="landing-h1 splash-head">
+                                        Search & Compare
+                                    </h1>
+                                    <h2 class="landing-h2 splash-subhead">
+                                        <!--<b class="landing-b">c</b><i>my</i><b class="landing-b">events</b> enables wedding planners.-->
+                                        Cmyevents is a search engine that lets you find and compare deals easily and quickly.
+                                    </h2>
+                                    <div class="l-box"></div>
+                                    <p class="landing-p">
+                                        <a href="/register" class="pure-button pure-button-large pure-button-warning large-button">
+                                            Sign up now
+                                        </a>
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="pure-u-1-8"></div>
+            </div>
+            <div class="pure-g slider3" style="display: none">
+                <div class="pure-u-1200 centered relative">
+                    <div class=" pure-u-29-48 right-text pull-right">
+                        <div class="transparent-gradient slider-box">
+                            <div class="pure-u-9-24">
+                                <div class="xl-box">
+                                    <h1 class="landing-h1 splash-head">
+                                        Share & Collaborate
+                                    </h1>
+                                    <h2 class="landing-h2 splash-subhead">
+                                        <!--<b class="landing-b">c</b><i>my</i><b class="landing-b">events</b> enables wedding planners and DIY party organizers to-->
+                                        Invite and share with friends and families for all those important decisions.
+                                    </h2>
+                                    <div class="l-box"></div>
+                                    <p class="landing-p">
+                                        <a href="/register" class="pure-button pure-button-large pure-button-warning large-button">
+                                            Sign up now
+                                        </a>
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="pure-u-1-8"></div>
+            </div>
+        </div>
+
+        <div class="partners pure-u-1 clearfix xl-box-y" style="border-top: 8px solid rgb(154, 202, 206) !important;">
+            <div class="pure-u-1200 centered xl-box-y right-text">
+                <div class="pure-u-1-4 right-text pull-left align-left">
+                    <h1 class="landing-h1 presentation-title  pull-left">users, simply search</h1>
+                    <p style="clear:both; height:0; width:0; margin:0; padding:0;"></p>
+                    <p class="landing-p">
+                        Organising a wedding? party? cmyevents helps you find the best deals to give you the best experience possible.
+                    </p>
+                    
+                    <p class="landing-p ico-homepage pull-left"> <img width="42" height="41" class="landing-img left-margin" src="/images/landing/ico-homepage-clock.png" alt="homepage dialog" />
+                        Find and compare deals quickly
+                    </p>
+                                      
+                   <p class="landing-p ico-homepage pull-left"> <img width="42" height="47" class="landing-img left-margin" src="/images/landing/ico-homepage-index.png" alt="homepage dialog" />
+                        Store emails and chats in one neat place
+                    </p>
+                    
+                   <p class="landing-p ico-homepage pull-left"><img width="70" height="45" class="landing-img left-margin" src="/images/landing/ico-homepage-dialog-boxes.png" alt="homepage dialog" />
+                        Invite and share with friends and families
+                    </p>
+                    <a href="/register" class="pure-button pure-button-large pure-button-success large-button">Yay, sign me up now!</a>
+                </div>
+                <div class="pure-u pull-right">
+                    <div class="video-container left-margin">
+                        <img class="landing-img play" width="107" height="107" src="/images/landing/button-play-off.png" alt="play" />
+                        <div data-play="video-1" class="shadow-play"></div>
+                        <iframe id="video-1" src="http://player.vimeo.com/video<?= $video[0] ?>?api=1&player_id=video-1" width="740" height="515" frameborder="0" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen=""></iframe>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+
+
+        <div class="partners pure-u-1 clearfix xl-box-y">
+            <div class="pure-u-1200 centered xl-box-y clearfix">
+                <div class="pure-u-11-48 pull-right left-text">
+                    <h1 class="landing-h1 presentation-title">partners, attract more</h1>
+                    <p class="landing-p">
+                        Stand out from the crowd. cmyevents helps you focus on what matters most, building insanely great relationships.
+                    </p>
+                    <p class="landing-p ico-homepage pull-left">
+                        <img width="54" height="47" class="landing-img right-margin" src="/images/landing/ico-homepage-arrow.png" alt="homepage dialog" />
+                        Generate more qualified leads
+                    </p>
+                    <p class="landing-p ico-homepage pull-left">
+                        <img width="55" height="39" class="landing-img right-margin" src="/images/landing/ico-homepage-cup-of-tea.png" alt="homepage dialog" />
+                        Free to join and be set up in an instant
+                    </p>
+                    <p class="landing-p ico-homepage pull-left">
+                        <img width="52" height="41" class="landing-img right-margin" src="/images/landing/ico-homepage-people.png" alt="homepage dialog" />
+                        Stay connected to your customers anytime, anwhere
+                    </p>
+                    <a href="/signup" class="pure-button pure-button-large pure-button-success large-button">Register with us</a>
+                </div>
+                <div class="pure-u pull-right">
+                    <div class="video-container right-margin">
+                        <img class="landing-img play" width="107" height="107" src="/images/landing/button-play-off.png" alt="play" />
+                        <div data-play="video-2" class="shadow-play"></div>
+                        <iframe id="video-2" src="http://player.vimeo.com/video<?= $video[1] ?>?api=1&player_id=video-2" width="740" height="515" frameborder="0" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen=""></iframe>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="pure-u"></div>
+        <div class="pure-u xl-box-y"></div>
+    </div>
+</div>
+<script>
+    $(document).ready(function(){
+        $('body').css('margin', '0');
+    });
+</script>
+<?php
+include('footer.php');
+?>
